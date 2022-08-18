@@ -11,6 +11,22 @@
     "type": "individual",
     "url": "https://ko-fi.com/kai_nightmode"
   },
+  "keywords": [
+    "brotli",
+    "cache",
+    "cache-control",
+    "csp",
+    "content-security-policy",
+    "development",
+    "etag",
+    "gzip",
+    "http",
+    "https",
+    "server",
+    "web",
+    "webserver",
+    "web-server"
+  ],
   "license": "MIT",
   "main": "code/server.js",
   "name": "tome-server",
