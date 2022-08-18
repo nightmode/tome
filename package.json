@@ -1,0 +1,22 @@
+{
+  "author": "Kai Nightmode",
+  "bin": {
+    "tome": "code/server.js"
+  },
+  "description": "Zero dependency web server.",
+  "engines": {
+    "node": ">= 14"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://ko-fi.com/kai_nightmode"
+  },
+  "license": "MIT",
+  "main": "code/server.js",
+  "name": "tome-server",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nightmode/tome.git"
+  },
+  "version": "2022.8.17.0"
+}
