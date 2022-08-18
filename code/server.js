@@ -299,7 +299,7 @@ setInterval(functions.memoryCacheClean, shared.memoryCacheCleanSeconds * 1000) /
 //----------------------
 // Display Tome Version
 //----------------------
-logAlways('Tome version ' + tome.version.replace('.0', ''))
+logAlways('Tome version ' + tome.version)
 
 //---------------------------------------
 // Encompassing Function for Async/Await
