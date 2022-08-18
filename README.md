@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/nightmode/tome/master/images/tome.jpg" width="830" alt="">
+<img src="https://raw.githubusercontent.com/nightmode/tome/main/images/tome.jpg" width="830" alt="">
 
 # Tome
 
