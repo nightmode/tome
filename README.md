@@ -38,7 +38,7 @@ Install Tome globally as a command line tool, accessible from anywhere.
 npm install -g tome-server
 ```
 
-If you would rather install Tome with the idea of hacking or developing your own fork, download Tome from GitHub and then run `npm link` from the main folder. You should now be able to run `tome` from any location and it will always use your latest changes to the codebase.
+If you would rather install Tome with the idea of hacking or developing your own fork, download Tome from GitHub and then run `npm link` from the Tome folder. You should now be able to run `tome` from any location and it will always use your latest changes to the codebase.
 
 ## Quickstart Guide
 
