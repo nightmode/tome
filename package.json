@@ -7,10 +7,6 @@
   "engines": {
     "node": ">= 14"
   },
-  "funding": {
-    "type": "individual",
-    "url": "https://ko-fi.com/kai_nightmode"
-  },
   "keywords": [
     "brotli",
     "cache",
@@ -27,12 +23,12 @@
     "webserver",
     "web-server"
   ],
-  "license": "MIT",
+  "license": "CC0-1.0",
   "main": "code/server.js",
   "name": "tome-server",
   "repository": {
     "type": "git",
     "url": "https://github.com/nightmode/tome.git"
   },
-  "version": "1.0.1"
+  "version": "2.0.0"
 }

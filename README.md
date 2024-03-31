@@ -10,7 +10,6 @@ A zero dependency web server.
 * [Install](#install)
 * [Quickstart Guide](#quickstart-guide)
 * [Advanced Uses](#advanced-uses)
-* [Donate](#donate)
 * [License](#license)
 
 ## Features
@@ -70,12 +69,8 @@ How about adding or replacing functions within [code/functions.js](https://githu
 
 Want to customize any of the flow functions in [code/flow](https://github.com/nightmode/tome/tree/main/code/flow)? Want to setup your own flow function to go beyond static file serving and host an API? I ran this very same setup for years in production. Works great and you get to leverage not just everything in Tome but everything in Node too. All within the comfort of your own custom config file.
 
-## Donate
-
-This software may be free but my love of loose leaf tea is not. Donate to [support my work](https://ko-fi.com/kai_nightmode) and unlock private messages on Ko-fi.
-
 ## License
 
-MIT © [Kai Nightmode](https://nightmode.fm/)
+[CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
 
-The MIT license does NOT apply to the name `Tome` or any of the images in this repository. Those items are strictly copyrighted to Kai Nightmode.
+This work has been marked as dedicated to the public domain.
