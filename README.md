@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/nightmode/tome/main/images/tome.jpg" width="830" alt="">
+**This software is no longer being tested or updated.**
 
 # Tome
 
@@ -31,13 +31,7 @@ A zero dependency web server.
 
 Make sure you have [Node](https://nodejs.org/en/) version 14 or greater. You can check your node version by running `node --version`.
 
-Install Tome globally as a command line tool, accessible from anywhere.
-
-```
-npm install -g tome-server
-```
-
-If you would rather install Tome with the idea of hacking or developing your own fork, download Tome from GitHub and then run `npm link` from the Tome folder. You should now be able to run `tome` from any location and it will always use your latest changes to the codebase.
+Run `npm link` from the Tome folder. You should now be able to run `tome` from any location and it will always use your latest changes to the codebase.
 
 ## Quickstart Guide
 
@@ -63,11 +57,11 @@ Once your config file is saved, run `tome` to start a web server. Assuming there
 
 ## Advanced Uses
 
-Tome shares its own `tome` object with every Tome config file and that opens up a lot of possibilities. For example, you can change any [code/option.js](https://github.com/nightmode/tome/blob/main/code/option.js) or [code/shared.js](https://github.com/nightmode/tome/blob/main/code/shared.js) setting from your config file without having to touch the original codebase.
+Tome shares its own `tome` object with every Tome config file and that opens up a lot of possibilities. For example, you can change any `code/option.js` or `code/shared.js` setting from your config file without having to touch the original codebase.
 
-How about adding or replacing functions within [code/functions.js](https://github.com/nightmode/tome/blob/main/code/functions.js)? Yep.
+How about adding or replacing functions within `code/functions.js`? Yep.
 
-Want to customize any of the flow functions in [code/flow](https://github.com/nightmode/tome/tree/main/code/flow)? Want to setup your own flow function to go beyond static file serving and host an API? I ran this very same setup for years in production. Works great and you get to leverage not just everything in Tome but everything in Node too. All within the comfort of your own custom config file.
+Want to customize any of the flow functions in `code/flow`? Want to setup your own flow function to go beyond static file serving and host an API? I ran this very same setup for years in production. Works great and you get to leverage not just everything in Tome but everything in Node too. All within the comfort of your own custom config file.
 
 ## License
 

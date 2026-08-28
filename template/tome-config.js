@@ -1,7 +1,6 @@
 //-----------------------------------
 // Tome - Zero Dependency Web Server
 //-----------------------------------
-// More info -> https://github.com/nightmode/tome
 module.exports = function(tome) {
     //---------
     // Aliases
@@ -15,8 +14,6 @@ module.exports = function(tome) {
     // shared.http.port = 80
     // shared.https.port = 443
     // shared.serveUnknownDomains = false
-
-    // Additional shared options and defaults -> https://github.com/nightmode/tome/blob/main/code/shared.js
 
     //------
     // Host
@@ -39,6 +36,4 @@ module.exports = function(tome) {
     // option.memoryCache = true // if true, serve certain file types from memory
 
     option.sitePath = '' // full path to the folder that is the root of your site
-
-    // Additional host options and defaults -> https://github.com/nightmode/tome/blob/main/code/option.js
 }
